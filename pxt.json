@@ -1,0 +1,19 @@
+{
+    "name": "mutilMotorDriver",
+    "version": "0.2.4",
+    "description": "micro:bit Mutil Motor Driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/mutilMotorDriver-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
